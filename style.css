@@ -1,0 +1,10 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background-color: black;
+  overflow: hidden;
+}
+canvas {
+  width: 99vw;
+  height: 99vh;
+}

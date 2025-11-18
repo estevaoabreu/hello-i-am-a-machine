@@ -10,6 +10,6 @@ The main objective was to develop conceptual interactive website, focusing on us
 
 *p5.js is a friendly tool for learning to code and make art. It is a free and open-source JavaScript library built by an inclusive, nurturing community. p5.js welcomes artists, designers, beginners, educators, and anyone else!*
 
-**ml5.js** <https://random-word-api.vercel.app/>
+**ml5.js** <https://ml5js.org/>
 
 *ml5.js aims to make machine learning approachable for a broad audience of artists, creative coders, and students. The library provides access to machine learning algorithms and models in the browser, building on top of TensorFlow.js with no other external dependencies.*

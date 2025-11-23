@@ -1,6 +1,6 @@
 # HELLO, I AM A MACHINE
 
-This website was developed for the "Project 4 - Interactive Multimedia" course unit of the Bachelor's in Design and Multimedia of the Faculty of Sciences and Technology of the University of Coimbra.
+This website was developed for the "Project 4 - Interactive Multimedia" course unit of the Bachelor's in Design and Multimedia of the Faculty of Sciences and Technology of the University of Coimbra. This project was made by Estêvão Abreu.
 
 The main objective was to develop conceptual interactive website, focusing on using and experimenting with alternative interaction possibilities, such as machine learning techniques.
 
